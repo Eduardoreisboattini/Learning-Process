@@ -1,6 +1,5 @@
 # Learning-Process
 Learning Process
-# Learning Process
 
 I am a firm believer in continuous learning and constantly striving to improve my skills in programming and other technical domains. Throughout my learning journey, I have adopted various learning techniques and approaches to enhance my knowledge and practical abilities. Here is an overview of my learning process:
 
