@@ -5,8 +5,32 @@ I am a firm believer in continuous learning and constantly striving to improve m
 
 ## 1. Online Courses and Tutorials 📚
 
+## 1. Online Courses and Tutorials 📚
+
 - [Coursera](https://www.coursera.org/): Enroll in courses from top universities and institutions.
 - [Udemy](https://www.udemy.com/): Access a wide range of courses taught by industry experts.
+- [edX](https://www.edx.org/): Explore high-quality courses from top universities and institutions worldwide.
+- [Pluralsight](https://www.pluralsight.com/): Learn technology and creative skills through expert-led video courses.
+- [LinkedIn Learning](https://www.linkedin.com/learning/): Develop your skills with personalized course recommendations based on your interests and experience.
+- [Codecademy](https://www.codecademy.com/): Master coding skills with interactive, hands-on coding exercises and projects.
+- [Khan Academy](https://www.khanacademy.org/): Access free courses and instructional videos on a wide range of subjects, from mathematics to arts and humanities.
+- [Treehouse](https://teamtreehouse.com/): Learn web development, coding, and design with interactive tutorials and coding challenges.
+- [Skillshare](https://www.skillshare.com/): Join a community of creators and access thousands of classes in design, business, photography, and more.
+- [Udacity](https://www.udacity.com/): Get job-ready with in-demand tech skills and personalized mentorship from industry experts.
+- [MasterClass](https://www.masterclass.com/): Learn from world-renowned instructors in various fields, such as cooking, writing, and filmmaking.
+- [FutureLearn](https://www.futurelearn.com/): Choose from hundreds of online courses from top universities and cultural institutions.
+- [MIT OpenCourseWare](https://ocw.mit.edu/index.htm): Access free course materials that mirror the content of actual MIT courses.
+- [DataCamp](https://www.datacamp.com/): Master data science and analytics skills through hands-on coding exercises.
+- [Harvard Online Learning](https://online-learning.harvard.edu/): Take online courses taught by Harvard faculty and earn a certificate of completion.
+- [Alison](https://alison.com/): Gain practical skills and knowledge through free online courses and certifications.
+- [Adobe Education Exchange](https://edex.adobe.com/): Learn creative skills with Adobe software through free workshops and courses for educators and students.
+- [Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage): Improve your digital skills with various online courses, from digital marketing to data analysis.
+- [OpenClassrooms](https://openclassrooms.com/): Study online with a dedicated mentor and obtain recognized diplomas in various fields.
+- [Code.org](https://code.org/): Access free coding tutorials and resources for students, teachers, and beginners.
+- [Stanford Online](https://online.stanford.edu/): Enroll in Stanford courses, certificates, and degrees remotely through their online learning platform.
+- [SoloLearn](https://www.sololearn.com/): Learn to code for free through interactive coding challenges and lessons.
+- [freeCodeCamp](https://www.freecodecamp.org/): Earn certifications while building projects in web development, data science, and more.
+
 
 ## 2. Project-Based Learning 🚀
 
