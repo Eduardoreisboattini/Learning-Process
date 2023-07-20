@@ -5,8 +5,6 @@ I am a firm believer in continuous learning and constantly striving to improve m
 
 ## 1. Online Courses and Tutorials 📚
 
-## 1. Online Courses and Tutorials 📚
-
 - [Coursera](https://www.coursera.org/): Enroll in courses from top universities and institutions.
 - [Udemy](https://www.udemy.com/): Access a wide range of courses taught by industry experts.
 - [edX](https://www.edx.org/): Explore high-quality courses from top universities and institutions worldwide.
